@@ -1,0 +1,123 @@
+{
+  "title": "An App About Apps - Deutsch",
+  "subtitle": "Eine Sammlung von Swift-Lektionen",
+  "publisherName": "Vallensbæk Kommune und ATEA Dänemark",
+  "feedIdentifier": "com.github.appsbyralo",
+  "contactURL": "mailto:ralotoft@gmail.com",
+  "formatVersion": "1.0",
+  "documents": [
+    {
+      "title": "An App About Apps",
+      "overviewSubtitle": "Alles, was Sie brauchen, um mit der Erstellung von Anwendungen zu beginnen",
+      "detailSubtitle": "",
+      "description": "Laden Sie die Anwendung des Bildungsprojekts herunter, in der Sie auf alle Materialien, Beschreibungen, Aktivitäten, das Portfolio und die Dokumente zugreifen können",
+      "contentIdentifier": "com.github.appsbyralo.AAAADE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsDE/AAAADE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Sprachen",
+          "value": "Deutsch"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "1. Navigationsleiste",
+      "overviewSubtitle": "Alles, was Sie brauchen, um mit der Erstellung von Anwendungen zu beginnen",
+      "detailSubtitle": "Lernen Sie, wie man eine Navigationsleiste erstellt",
+      "description": "In dieser Swift-Anwendung lernen Sie durch Übungen, Code und Erklärungen, wie Sie Ihre eigene Navigationsleiste (Menü) in Ihrer Anwendung erstellen. Sie lernen, wie Sie verschiedene Schaltflächen, Seiten und Multimedia-Inhalte in Ihre App einfügen können.",
+      "contentIdentifier": "com.github.appsbyralo.NavigationDE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsDE/NavigationDE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Sprachen",
+          "value": "Deutsch"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "2. Stacks",
+      "overviewSubtitle": "Alles, was Sie brauchen, um mit der Erstellung von Anwendungen zu beginnen",
+      "detailSubtitle": "Hier arbeiten wir mit Stapeln",
+      "description": "In der Anwendung Stapel lernen Sie, wie Sie verschiedene Objekttypen auf Vstacks, Hstacks und Zstacks platzieren. Mit dieser Anwendung lernen Sie, wie Sie das Layout Ihrer Anwendung verwalten, um das gewünschte Layout besser zu gestalten.",
+      "contentIdentifier": "com.github.appsbyralo.StacksDE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsDE/StacksDE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Sprachen",
+          "value": "Deutsch"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/Stacks/preview.png",
+        "https://appsbyralo.github.io/Stacks/preview2.png",
+        "https://appsbyralo.github.io/Stacks/preview3.png",
+        "https://appsbyralo.github.io/Stacks/preview4.png"
+      ]
+    },
+    {
+      "title": "3. Inhalt",
+      "overviewSubtitle": "Ein One-Stop-Shop, um mit der Erstellung eigener Anwendungen zu beginnen",
+      "detailSubtitle": "Lernen Sie, wie man Inhalte zu Ihrer Anwendung hinzufügt",
+      "description": "Mit dieser Ressource lernen Sie, wie Sie eigene Fotos, Videos und Links in Ihre Anwendung einfügen können, um sie visueller und ansprechender zu gestalten.",
+      "contentIdentifier": "com.github.appsbyralo.ContentDE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsDE/ContentDE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Sprachen",
+          "value": "Deutsch"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "4. Dinge, um zu beginnen",
+      "overviewSubtitle": "Ein One-Stop-Shop, um mit der Erstellung eigener Anwendungen zu beginnen",
+      "detailSubtitle": "Einige Elemente, um schnell zu beginnen",
+      "description": "Mit dieser Anwendung lernen Sie einige der interessanten Dinge kennen, die Sie bei der Erstellung von Anwendungen beachten sollten, wie z. B. die Erstellung verschiedener Arten von Schaltflächen, Schiebereglern, GPS-Karten und vieles mehr.",
+      "contentIdentifier": "com.github.appsbyralo.ThingsDE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsDE/ThingsDE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Sprachen",
+          "value": "Deutsch"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    }
+  ]
+}
